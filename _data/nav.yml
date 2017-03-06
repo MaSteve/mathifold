@@ -949,3 +949,17 @@ map:
             ident: miscelaneous
             en: Miscelaneous
             es: Miscelánea
+  -
+    ident: algorithms
+    en: Algorithms
+    es: Algoritmia
+    children:
+      -
+        ident: algorithms-basic_ideas
+        en: Basic ideas
+        es: Ideas básicas
+        children:
+          -
+            ident: intro_algorithms
+            en: Introduction
+            es: Introducción
