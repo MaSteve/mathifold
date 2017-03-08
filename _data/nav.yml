@@ -604,10 +604,10 @@ map:
         en: Computer Science
         es: Informática
         children:
-          -
-            ident: intro_computer_science
-            en: Chapter1
-            es: Capítulo1
+            -
+              ident: algorithms
+              en: Algorithms
+              es: Algoritmia
       -
         ident: economy
         en: Economy
@@ -949,17 +949,3 @@ map:
             ident: miscelaneous
             en: Miscelaneous
             es: Miscelánea
-  -
-    ident: algorithms
-    en: Algorithms
-    es: Algoritmia
-    children:
-      -
-        ident: algorithms-basic_ideas
-        en: Basic ideas
-        es: Ideas básicas
-        children:
-          -
-            ident: intro_algorithms
-            en: Introduction
-            es: Introducción

@@ -5,7 +5,7 @@ category: es
 permalink: es/def_algorithms
 
 ident: def_algorithms
-parent: intro_algorithms
+parent: algorithms
 kind: definition
 mathjax: false
 
